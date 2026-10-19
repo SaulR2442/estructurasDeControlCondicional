@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tallerControlCondicional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deab73c27c231ee3e0258d8f89531edcb4155018")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3438c7399ebf6aa69835f14ccbec8ff648a3664")]
 [assembly: System.Reflection.AssemblyProductAttribute("tallerControlCondicional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tallerControlCondicional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
