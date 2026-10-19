@@ -1,0 +1,15 @@
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.GeneratedMSBuildEditorConfig.editorconfig
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.AssemblyInfoInputs.cache
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.AssemblyInfo.cs
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.csproj.CoreCompileInputs.cache
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.sourcelink.json
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/bin/Debug/net8.0/tallerControlCondicional
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/bin/Debug/net8.0/tallerControlCondicional.deps.json
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/bin/Debug/net8.0/tallerControlCondicional.runtimeconfig.json
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/bin/Debug/net8.0/tallerControlCondicional.dll
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/bin/Debug/net8.0/tallerControlCondicional.pdb
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.dll
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/refint/tallerControlCondicional.dll
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.pdb
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/tallerControlCondicional.genruntimeconfig.cache
+/home/saul/Programacion/c#/estructurasDeControlCondicional/tallerControlCondicional/obj/Debug/net8.0/ref/tallerControlCondicional.dll
